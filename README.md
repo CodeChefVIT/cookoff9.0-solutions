@@ -11,9 +11,9 @@
 
 This repository contains all the questions and solutions from CookOff 9.0, arranged round-wise to help participants revisit each challenge and explore the approaches behind the solutions. 
 
-![alt text](<illustrations/Group 71.svg>)    
-     
-![alt text](<illustrations/CodeChef-VIT New Logo 3.svg>)
+<div align="center">
+    <img src="illustrations/CodeChef-VIT New Logo 3.svg" alt="CodeChef VIT Logo" style="display: inline-block; width: 150px;">
+</div>
 
 Get Involved
 ----
