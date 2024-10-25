@@ -9,7 +9,9 @@
 
 **CookOff 9.0** was a competitive coding contest organized by **CodeChef VIT** as part of **graVITas'24**. Gravitas is renowned for its immersive events, workshops, and challenges that bring together tech enthusiasts and innovators. In line with this spirit, CookOff 9.0 challenged participants with three rounds of progressively difficult coding problems, designed to test their problem-solving skills and coding proficiency.
 
-This repository contains all the questions and solutions from CookOff 9.0, arranged round-wise to help participants revisit each challenge and explore the approaches behind the solutions.
+This repository contains all the questions and solutions from CookOff 9.0, arranged round-wise to help participants revisit each challenge and explore the approaches behind the solutions. 
+
+![alt text](<illustrations/Group 71.svg>)         ![alt text](<illustrations/CodeChef-VIT New Logo 3.svg>)
 
 Get Involved
 ----
