@@ -37,8 +37,8 @@ Return the minimum number of moves (clockwise stirs, anticlockwise stirs, and di
 
 ### **Sample Output**
 ```
-4
 8
+4
 ```
 
 ### **Solution O(1):**

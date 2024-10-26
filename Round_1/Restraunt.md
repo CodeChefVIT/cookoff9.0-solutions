@@ -25,9 +25,22 @@ C(n, r) = n! / (r!(n-r)!)
 - _Z < X < N_
 
 ### **Output Format**:
-Output an integer representing the total number of unique dishes for each test case.
+Output an integer representing the total number of unique dishes for each test case.:
 
-### **Solution**:
+### **Sample Input**:
+```
+1
+2
+3 5 1
+4 6 2
+```
+### **Sample Output**:
+```
+12
+```
+
+
+### **Solution**
 
 ```cpp
 #include <iostream>
